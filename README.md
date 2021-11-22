@@ -23,4 +23,4 @@ Assigment description:
   An assignment is the assigning of a specific value to each cell (variable) and is represented by a vector of 
   integers,  vector<int> assignment.
   
-I used CSP and CSP with bracktracking to solve random sudoku puzzles. 
+I used CSP and CSP with backtracking to solve random sudoku puzzles. 
