@@ -23,14 +23,16 @@ Assigment description:
   integers,  vector<int> assignment."
     
   
-Here are some Examples of it in action:
+Here are some examples of it in action:
   
 ex #1
+  
 ![AI_puzzle1](https://user-images.githubusercontent.com/72853815/150278616-0e042ee2-1ee9-4ad9-9a2e-e9d954719cd5.PNG)
 ![AI_solved1](https://user-images.githubusercontent.com/72853815/150278622-0bf8ffa1-589a-4467-8b54-db4d98dc9859.PNG)
   
  
 ex #2 
+  
 ![AI_puzzle2](https://user-images.githubusercontent.com/72853815/150279052-2727d0ad-069a-42c6-8ae9-a06de03a74d7.PNG)
 ![AI_solved2](https://user-images.githubusercontent.com/72853815/150278919-fd5d7865-fc49-4852-ab7c-957ed21d7ab7.PNG)
 
