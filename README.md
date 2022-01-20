@@ -12,9 +12,8 @@ Assigment description:
   
   
 Here is how the sudoku puzzle is represnted and then simplified to only the possible actions.
-![AI_puzzle_AC3](https://user-images.githubusercontent.com/72853815/150280479-06733082-95a8-4a24-8125-7d8d2307a194.PNG)
-![AI_CSP](https://user-images.githubusercontent.com/72853815/150280424-5035e5de-dc0d-4e3e-918b-73445718e557.PNG)
-![AI_CSP_AC3](https://user-images.githubusercontent.com/72853815/150280433-0ee00650-fc52-4baf-b244-acb2ab089f2e.PNG)
+  
+<img src="https://user-images.githubusercontent.com/72853815/150280479-06733082-95a8-4a24-8125-7d8d2307a194.PNG" width="30%"></img> <img src="https://user-images.githubusercontent.com/72853815/150280424-5035e5de-dc0d-4e3e-918b-73445718e557.PNG" width="30%"></img> <img src="https://user-images.githubusercontent.com/72853815/150280433-0ee00650-fc52-4baf-b244-acb2ab089f2e.PNG" width="30%"></img> 
 
     
   
