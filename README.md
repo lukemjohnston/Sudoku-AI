@@ -9,9 +9,16 @@ Assigment description:
   
   "The variables are the individual cells, numbered 0 to 80, based on the location on the board. A cell 
   located in row a (can be 0 to 8) and column b (can be 0 to 8), will have index 9*a+b. The constrains are converted to binary constraints and given by the constraints graph, represented by a boolean matrix C[81][81], where C[x][y]=true if and only if cells x and y must be different (i.e., x and y are in the same row, same column, or same 3x3 subgrid). The domain for each of the variables are the numbers 1 to 9 and represented by an array of vectors, vector<int> domain[81].  Each individual Sudoku puzzle comes with a predefined assignment of values for particular cells (unary constraints).  We reflect these unary constraints immediately on the domain.  For example, if cell (variable) indexed by 70 is defined by the puzzle to be 4, then domain[70]={4} (instead of {1,2,3,4,5,6,7,8,9}). An assignment is the assigning of a specific value to each cell (variable) and is represented by a vector of integers,  vector<int> assignment."
+  
+  
+Here is how the sudoku puzzle is represnted and then simplified to only the possible actions.
+  ![AI_CSP](https://user-images.githubusercontent.com/72853815/150280407-27fda8cd-9701-4031-a58f-2d9dafc9ee8f.PNG)
+![AI_CSP](https://user-images.githubusercontent.com/72853815/150280424-5035e5de-dc0d-4e3e-918b-73445718e557.PNG)
+![AI_CSP_AC3](https://user-images.githubusercontent.com/72853815/150280433-0ee00650-fc52-4baf-b244-acb2ab089f2e.PNG)
+
     
   
-Here are some examples of it in action:
+Here are some examples of it solving puzzles:
   
 ex #1
   
@@ -26,4 +33,3 @@ ex #2
 
 
   
-I used CSP and CSP with backtracking to solve random sudoku puzzles. 
