@@ -6,8 +6,7 @@ This was an assignment for my AI class. I really enjoyed working on this one!
 Sudoku can be viewed as a CSP.  
 
 Assigment description:
-
-  The variables are the individual cells, numbered 0 to 80, based on the location on the board. A cell 
+  "The variables are the individual cells, numbered 0 to 80, based on the location on the board. A cell 
   located in row a (can be 0 to 8) and column b (can be 0 to 8), will have index 9*a+b. 
 
   The constrains are converted to binary constraints and given by the constraints graph, represented by a 
@@ -21,6 +20,10 @@ Assigment description:
   (instead of {1,2,3,4,5,6,7,8,9}). 
   
   An assignment is the assigning of a specific value to each cell (variable) and is represented by a vector of 
-  integers,  vector<int> assignment.
+  integers,  vector<int> assignment."
+    
+![AI_puzzle1](https://user-images.githubusercontent.com/72853815/150278616-0e042ee2-1ee9-4ad9-9a2e-e9d954719cd5.PNG)
+![AI_solved1](https://user-images.githubusercontent.com/72853815/150278622-0bf8ffa1-589a-4467-8b54-db4d98dc9859.PNG)
+
   
 I used CSP and CSP with backtracking to solve random sudoku puzzles. 
