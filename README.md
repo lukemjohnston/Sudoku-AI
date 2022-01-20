@@ -24,6 +24,10 @@ Assigment description:
     
 ![AI_puzzle1](https://user-images.githubusercontent.com/72853815/150278616-0e042ee2-1ee9-4ad9-9a2e-e9d954719cd5.PNG)
 ![AI_solved1](https://user-images.githubusercontent.com/72853815/150278622-0bf8ffa1-589a-4467-8b54-db4d98dc9859.PNG)
+  
+  ![AI_puzzle2](https://user-images.githubusercontent.com/72853815/150278908-87c6f118-7a09-4469-9873-d0ee5586d667.PNG)
+![AI_solved2](https://user-images.githubusercontent.com/72853815/150278919-fd5d7865-fc49-4852-ab7c-957ed21d7ab7.PNG)
+
 
   
 I used CSP and CSP with backtracking to solve random sudoku puzzles. 
