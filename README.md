@@ -6,6 +6,7 @@ This was an assignment for my AI class. I really enjoyed working on this one!
 Sudoku can be viewed as a CSP.  
 
 Assigment description:
+
   "The variables are the individual cells, numbered 0 to 80, based on the location on the board. A cell 
   located in row a (can be 0 to 8) and column b (can be 0 to 8), will have index 9*a+b. 
 
